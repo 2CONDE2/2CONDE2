@@ -1,3 +1,4 @@
+![Banner](banner2.png)
 ##Hi! I'm Jheron Conde 👋
 
 🎓 Student at Universidad Mayor de San Simón  
