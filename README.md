@@ -1,5 +1,5 @@
 ![Banner](banner2.png)
-##Hi! I'm Jheron Conde 👋
+## Hi! I'm Jheron Conde 👋
 
 🎓 Student at Universidad Mayor de San Simón  
 💻 Interested in Software Development, Linux and Open Source  
