@@ -1,16 +1,29 @@
-## Hi there 👋
+##Hi! I'm Jheron Conde 👋
 
-<!--
-**2CONDE2/2CONDE2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Universidad Mayor de San Simón  
+💻 Interested in Software Development, Linux and Open Source  
+⚡ Currently learning and building projects with Python, Git, Databases and Microcontrollers (ESP32)
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Linux
+- Git & GitHub
+- Python Programming
+- Web Development
+- Databases (SQL)
+- IoT with ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+- Linux
+- Git / GitHub
+- Python
+- MicroPython
+- Databases (SQL)
+- ESP32
+
+## 📚 Goals
+Continue improving my programming skills, learn more about databases, contribute to projects and build useful software.
+
+## GitHub Stats 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2CONDE2)](https://git.io/streak-stats)
